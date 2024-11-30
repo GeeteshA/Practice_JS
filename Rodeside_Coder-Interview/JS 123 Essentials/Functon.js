@@ -70,5 +70,4 @@ is invoked as a standalone function, not a method of obj2. As a result, this.mes
 /* Code 2 (obj3): Inside the innerMsg function, this refers to obj3 (since it's a method of obj3), and we assign 
 this to a variable self. In the IIFE, self refers to obj3, so self.message correctly accesses obj3.message,
  which is 'this is message'. */
-
 //----------------------------------------------------------------------------------------------------------------

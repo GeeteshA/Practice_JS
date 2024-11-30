@@ -1,0 +1,46 @@
+Array Questions:
+    Write a function to find the maximum value in an array. \/
+    Write a function to find the minimum value in an array. \/   
+    Write a function to calculate the sum of all elements in an array. \/
+    Write a function to calculate the average of an array of numbers. \/
+    Write a function to count the occurrences of a specific element in an array. \/
+    Write a function to reverse an array. \/
+    Write a function to check if an array is sorted in ascending order. \/
+    Write a function to remove duplicates from an array. \/
+    Write a function to merge two arrays and remove duplicates. \/
+    Write a function to check if an array is a palindrome. \/
+    Write a function to rotate an array to the left by n positions.
+    Write a function to rotate an array to the right by n positions.
+    Write a function to find the intersection of two arrays.
+    Write a function to find the union of two arrays.
+    Write a function to split an array into chunks of a given size.
+    Write a function to flatten a nested array.
+    Write a function to find the index of the first occurrence of a given element in an array.
+    Write a function to find the index of the last occurrence of a given element in an array.
+    Write a function to move all zeroes to the end of an array without changing the order of other elements.
+    Write a function to group an array of numbers into even and odd numbers.
+    Write a function to merge two sorted arrays into a single sorted array.
+    Write a function to rearrange an array such that all negative numbers appear before positive numbers.
+
+String Questions:
+
+    Write a function to find the length of the longest word in a string.  \/
+    Write a function to reverse a string. \/
+    Write a function to check if a string is a palindrome. \/
+    Write a function to count the number of vowels in a string. \/
+    Write a function to count the number of consonants in a string. \/
+    Write a function to remove all spaces from a string.
+    Write a function to replace all spaces in a string with %20.
+    Write a function to check if a string contains another substring.
+    Write a function to check if two strings are anagrams.
+    Write a function to capitalize the first letter of each word in a string.
+    Write a function to count the occurrences of a specific character in a string.
+    Write a function to remove duplicate characters from a string.
+    Write a function to remove all digits from a string.
+    Write a function to extract all digits from a string.
+    Write a function to check if a string contains only numbers.
+    Write a function to check if a string contains only alphabets.
+    Write a function to find the first non-repeating character in a string.
+    Write a function to sort the characters in a string alphabetically.
+    Write a function to check if a string is a valid palindrome after removing non-alphanumeric characters.
+    Write a function to find the longest substring without repeating characters. 
